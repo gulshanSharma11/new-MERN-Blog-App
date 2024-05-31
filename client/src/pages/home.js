@@ -25,7 +25,7 @@ const Home = () => {
     <>
       <Container className="my-5" style={{ maxWidth: '800px' }}>
         <Image
-          src="avatar.jpeg"
+          src="avatar.jpg"
           width="150"
           style={{ borderRadius: '50%' }}
           className="d-block img-fluid mx-auto"
